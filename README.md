@@ -5,6 +5,6 @@ A curated collection of beginner friendly C mini projects featuring simple games
 ## 📁 Projects Included
 
 - **Spooky Mad Libs:** A fun interactive story generator where users input creepy words to create a spooky tale.
-- **Multi_Tool_Calculator:** A versatile program that includes a basic calculator, weight and temperature converter, and compound interest calculator.
+- **Multi_Tool_Calculator:** A project that includes a basic calculator, weight and temperature converter, and compound interest calculator.
 
 *Note: These projects are self contained and can be compiled and run independently.*
